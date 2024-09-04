@@ -1,2 +1,0 @@
-; 
-MsgBox, Hello, World!
